@@ -1,0 +1,8 @@
+module-info.class
+com\_2600tech\gmac\SparklineTempSerial\SystemInfo.class
+gnu\io\CommPortIdentifier.class
+gnu\io\SerialPort.class
+com\_2600tech\gmac\SparklineTempSerial\App.class
+com\_2600tech\gmac\SparklineTempSerial\PortListener.class
+com\_2600tech\gmac\SparklineTempSerial\App$1.class
+com\_2600tech\gmac\SparklineTempSerial\SerialReader.class
